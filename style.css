@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana;
+  text-align: center;
+}
+
+#mybutton {
+  font-size: 3em;
+  padding: 5px 25px;
+  border-radius: 5px;
+  box-shadow: 10px 5px 10px gray;
+  background-color: cadetblue;
+  transition: 0.4s;
+  color: azure;
+}
+
+#mylabel {
+  font-size: 5em;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#mybutton:hover {
+  background-color: rgb(0, 0, 0);
+}
